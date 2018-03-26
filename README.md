@@ -1,2 +1,2 @@
-# Angular2_4ASPNetAPI
-Download the branches.
+# Angular 2 & 4 in ASP.NET MVC Web API - Part 4
+Read the article on [Fullstack Hub](https://fullstackhub.io/viewArticle/5a792af471d8ab3f98f71b3c).
